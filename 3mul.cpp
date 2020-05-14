@@ -2,6 +2,7 @@
 using namespace std;
 
 // Returns count of all numbers smaller than
+//hijibiji
 
 int main()
 {
